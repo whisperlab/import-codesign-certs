@@ -1,6 +1,6 @@
 name: 'Import Code-Signing Certificates'
 description: 'Imports a PKCS12 certificate and private key into a macOS Keychain.'
-author: 'Itty Bitty Apps Pty Ltd'
+author: 'Whisperlab'
 inputs:
   keychain:
     description: 'The name of the keychain to import into.'
