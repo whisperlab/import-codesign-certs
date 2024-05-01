@@ -1,6 +1,6 @@
 {
   "name": "import-codesign-certs",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "description": "GitHub Action for Importing Code-signing Certificates into a Keychain",
   "main": "lib/main.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Apple-Actions/import-codesign-certs.git"
+    "url": "git+https://github.com/whisperlab/import-codesign-certs.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "Itty Bitty Apps Ptr Ltd",
+  "author": "Whisperlab",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.1",
